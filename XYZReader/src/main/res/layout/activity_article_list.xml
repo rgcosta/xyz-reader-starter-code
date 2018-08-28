@@ -10,7 +10,7 @@
         android:layout_height="@dimen/height_toolbar"
         android:background="?colorPrimary"
         android:theme="@style/Theme.AppBarOverlay"
-        android:elevation="8dp">
+        android:elevation="@dimen/app_bar_main_screen_elevation">
 
         <android.support.v7.widget.Toolbar
             android:id="@+id/toolbar"

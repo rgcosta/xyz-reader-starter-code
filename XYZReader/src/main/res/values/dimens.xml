@@ -5,7 +5,7 @@
     <dimen name="material_component_cards_top_and_bottom_padding">16dp</dimen>
     <dimen name="material_component_cards_padding_from_edge_of_screen_to_card">4dp</dimen>
     <dimen name="material_component_cards_space_between_cards">4dp</dimen>
-    <dimen name="floating_action_button_elevation">4dp</dimen>
+    <dimen name="floating_action_button_elevation">6dp</dimen>
     <dimen name="height_toolbar">112dp</dimen>
     <dimen name="padding_recyclerView">4dp</dimen>
     <integer name="grid_column_count">2</integer>
@@ -14,4 +14,5 @@
     <dimen name="fab_press_translation_z">4dp</dimen>
     <dimen name="layout_screen_edge_margin">16dp</dimen>
     <dimen name="floating_button_margin">16dp</dimen>
+    <dimen name="app_bar_main_screen_elevation">4dp</dimen>
 </resources>
